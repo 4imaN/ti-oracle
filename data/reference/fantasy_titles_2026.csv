@@ -1,0 +1,17 @@
+kind,key,bonus_percent,activation
+prefix,Crimson,6,Player uses a red hero
+prefix,Cerulean,11,Player uses a blue hero
+prefix,Emerald,6,Player uses a green hero
+prefix,Royal,10,Player uses a purple hero
+prefix,Golden,8,Player uses a yellow or brown hero
+prefix,Elemental,8,Player uses an Aquatic Fiery or Icy hero
+prefix,Otherworldly,7,Player uses an Undead Demon or Spirit hero
+prefix,Heroic,9,Player uses a Caped or Masked hero
+suffix,the Tormented,23,Any player dies to a Tormentor
+suffix,the Flayed Twins Acolyte,9,Any player gets first blood before the starting horn
+suffix,the Patient,23,First blood does not happen until after 10 minutes
+suffix,the Underdog,6,The selected player loses the game
+suffix,the Decisive,24,The game lasts less than 25 minutes
+suffix,the Clutch,16,The selected player plays the last possible match of a series
+suffix,the Lucky,21,The match duration ends with the digit 8
+suffix,the Cruel,13,A player is killed in their own fountain

@@ -1,0 +1,25 @@
+round,team1,team2,winner,team1_maps,team2_maps,status,completed_at,source
+1,falcons,lgd,falcons,2,1,complete,2026-08-13,OpenDota league 19719
+1,onewin,nigma,onewin,2,0,complete,2026-08-13,OpenDota league 19719
+1,betboom,og,betboom,2,0,complete,2026-08-13,OpenDota league 19719
+1,vision,resilience,vision,2,1,complete,2026-08-13,OpenDota league 19719
+1,spirit,xtreme,spirit,2,0,complete,2026-08-13,OpenDota league 19719
+1,liquid,vici,liquid,2,0,complete,2026-08-13,OpenDota league 19719
+1,aurora,gamerlegion,aurora,2,0,complete,2026-08-13,OpenDota league 19719
+1,yandex,huligani,yandex,2,0,complete,2026-08-13,OpenDota league 19719
+2,betboom,onewin,betboom,2,1,complete,2026-08-13,OpenDota league 19719
+2,falcons,vision,vision,2,1,complete,2026-08-13,OpenDota league 19719
+2,lgd,resilience,lgd,2,1,complete,2026-08-13,OpenDota league 19719
+2,nigma,og,nigma,2,0,complete,2026-08-13,OpenDota league 19719
+2,spirit,aurora,spirit,2,0,complete,2026-08-14,OpenDota league 19719
+2,yandex,liquid,liquid,2,1,complete,2026-08-14,OpenDota league 19719
+2,xtreme,gamerlegion,gamerlegion,0,2,complete,2026-08-14,OpenDota league 19719
+2,vici,huligani,vici,2,1,complete,2026-08-14,OpenDota league 19719
+3,vision,betboom,vision,2,0,complete,2026-08-14,OpenDota league 19719
+3,onewin,falcons,onewin,2,1,complete,2026-08-14,OpenDota league 19719
+3,nigma,lgd,nigma,2,0,complete,2026-08-14,OpenDota league 19719
+3,resilience,og,resilience,2,0,complete,2026-08-14,OpenDota league 19719
+3,spirit,liquid,spirit,2,1,complete,2026-08-14,OpenDota league 19719
+3,vici,gamerlegion,vici,2,1,complete,2026-08-14,OpenDota league 19719
+3,xtreme,huligani,xtreme,2,0,complete,2026-08-14,OpenDota league 19719
+3,yandex,aurora,aurora,1,2,complete,2026-08-14,OpenDota league 19719

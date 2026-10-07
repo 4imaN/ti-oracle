@@ -1,0 +1,11 @@
+year,league_id,event_name,event_start,event_end,host_city,host_country,timezone,venue_phase_only
+2016,4664,The International 2016,2016-08-02,2016-08-13,Seattle,United States,America/Los_Angeles,true
+2017,5401,The International 2017,2017-08-02,2017-08-12,Seattle,United States,America/Los_Angeles,true
+2018,9870,The International 2018,2018-08-15,2018-08-25,Vancouver,Canada,America/Vancouver,true
+2019,10749,The International 2019,2019-08-15,2019-08-25,Shanghai,China,Asia/Shanghai,true
+2021,13256,The International 2021,2021-10-07,2021-10-17,Bucharest,Romania,Europe/Bucharest,true
+2022,14268,The International 2022,2022-10-15,2022-10-30,Singapore,Singapore,Asia/Singapore,true
+2023,15728,The International 2023,2023-10-12,2023-10-29,Seattle,United States,America/Los_Angeles,true
+2024,16935,The International 2024,2024-09-04,2024-09-15,Copenhagen,Denmark,Europe/Copenhagen,true
+2025,18324,The International 2025,2025-09-04,2025-09-14,Hamburg,Germany,Europe/Berlin,true
+2026,19719,The International 2026,2026-08-13,2026-08-23,Shanghai,China,Asia/Shanghai,true

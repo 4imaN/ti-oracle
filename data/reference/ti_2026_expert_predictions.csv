@@ -1,0 +1,17 @@
+source,source_date,canonical_team,display_name,predicted_bucket,confidence_note
+purge_youtube,2026-08-07,vision,TEAM VISION,4-0,highest-confidence favorite
+purge_youtube,2026-08-07,yandex,Team Yandex,4-1,top-four contender
+purge_youtube,2026-08-07,falcons,Team Falcons,4-1,top-four contender
+purge_youtube,2026-08-07,betboom,BoomBoys,elimination_winner,top-four contender but placed below Falcons after recent event
+purge_youtube,2026-08-07,spirit,Team Spirit,elimination_winner,strong advance pick with acknowledged downside
+purge_youtube,2026-08-07,vici,Vici Gaming,elimination_winner,recent-form and scrim-context pick
+purge_youtube,2026-08-07,liquid,Team Liquid,elimination_winner,advance pick with underperformance risk
+purge_youtube,2026-08-07,resilience,Team Resilience,elimination_winner,explicit high-variance gut pick
+purge_youtube,2026-08-07,aurora,Aurora Gaming,elimination_loser,acknowledged upside to advance
+purge_youtube,2026-08-07,onewin,Iron Wing,elimination_loser,acknowledged upside to advance
+purge_youtube,2026-08-07,xtreme,Xtreme Gaming,elimination_loser,wildcard with upside
+purge_youtube,2026-08-07,lgd,LGD Gaming,elimination_loser,expected near fifth-worst with several-slot uncertainty
+purge_youtube,2026-08-07,og,OG,elimination_loser,talented but recent-form concern
+purge_youtube,2026-08-07,nigma,Nigma Galaxy,1-4,possible elimination-round upside
+purge_youtube,2026-08-07,gamerlegion,GamerLegion,1-4,occasional upset potential
+purge_youtube,2026-08-07,huligani,HULIGANI,0-4,weakest-team pick
