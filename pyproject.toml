@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ti-oracle-data"
+version = "0.1.0"
+description = "Dota 2 professional, patch-meta, and Fantasy data pipeline"
+requires-python = ">=3.11"
+dependencies = ["certifi>=2025.1"]
+
+[project.optional-dependencies]
+model = [
+  "catboost>=1.2",
+  "lightgbm>=4.5",
+  "numpy>=2.1",
+  "pandas>=2.2",
+  "scikit-learn>=1.5",
+]
+dev = ["pytest>=8.3"]
+web = [
+  "fastapi>=0.116",
+  "python-multipart>=0.0.20",
+  "uvicorn[standard]>=0.35",
+]
+
+[project.scripts]
+ti-data = "ti_oracle_data.cli:main"
+ti-api = "ti_oracle_data.webapp:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ti_oracle_data = ["schema.sql"]
